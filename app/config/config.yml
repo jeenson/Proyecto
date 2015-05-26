@@ -76,7 +76,7 @@ swiftmailer:
 easy_admin:
     site_name: 'Backend Symfony'
     entities:
-        'Lista de Clientes':
+        'Clientes':
             class: AppBundle\Entity\Cliente
             list:
                 fields: ['id', 'name']
